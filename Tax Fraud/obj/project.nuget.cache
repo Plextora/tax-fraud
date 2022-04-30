@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "15JHFWUshRCwX+7H3cupM/zSgpyTbtvylmb9upR7DibfVa4DBnwDPNyGJrM1/yYh2m+GZ9gqJjkoxvfnkJXFtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petrn\\source\\repos\\Tax Fraud\\Tax Fraud\\Tax Fraud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petrn\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\petrn\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\petrn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
